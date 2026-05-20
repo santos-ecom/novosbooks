@@ -1,0 +1,15 @@
+# Translation scripts and temporary files
+analyze.py
+find_untranslated.ps1
+find_untranslated.py
+inject_images.ps1
+merge_json.ps1
+scratch/
+test_match.ps1
+translate_and_generate.ps1
+translations.json
+translations.json.bak
+translations_new.json
+untranslated_report.json
+update_payload.json
+update_translations.ps1
